@@ -3,3 +3,4 @@ Group project where we deciphered the loan prediction model using borrower profi
 <h1>Whose life is this</h1>
 
 <a href='https://trello.com/b/doZfBZIB/team2-tracking-template'>Trello board</a>
+<img src='95684.jpg'>
