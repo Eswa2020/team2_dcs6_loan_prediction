@@ -1,4 +1,4 @@
-# team2_dcs6_loan_prediction
+# Team2 Dsc6 Loan Prediction
 Group project where we deciphered the loan prediction model using borrower profile
 <h1>TEAM 2 LINKS HUB</h1>
 
