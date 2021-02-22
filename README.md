@@ -1,5 +1,6 @@
 # Team2 Dsc6 Loan Prediction
-Group project where we deciphered the loan prediction model using borrower profile
+> Group project where we deciphered the loan prediction model using borrower profile
+
 ## TEAM 2 LINKS HUB
 
 <a href='https://trello.com/b/doZfBZIB/team2-tracking-template'>Trello board</a>
